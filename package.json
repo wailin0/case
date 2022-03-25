@@ -16,7 +16,7 @@
     "axios": "^0.18.0",
     "babel-polyfill": "^6.26.0",
     "core-js": "^2.6.5",
-    "dom-to-image": "git://github.com/MichalBryxi/dom-to-image.git#master",
+    "dom-to-image": "2.6.0",
     "es6-promise": "^4.2.6",
     "express": "^4.16.4",
     "formidable": "^1.2.1",
